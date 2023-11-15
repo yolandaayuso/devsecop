@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #  cambio modificado Practical DevOps - The Lab
+=======
+# Practical DevOps - The Lab Seguridad rama dev
+>>>>>>> 9910c2a71eef9223c7caec57c40a5be1e6e2372d
 I've created this DevOps lab to explain the following terms through separate blogposts
 
 1. [Infrastructure As Code using Vagrant Ansible & Docker](https://www.rohitsalecha.com/post/practical_devops_infrastructure_as_code_vagrant_ansible_docker/)
